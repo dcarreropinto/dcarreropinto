@@ -2,7 +2,9 @@
 ## This is a subtitle 
 
 *Hello There*
+
 **Hello there 2**
+
 *this is a list 
   *nested list 
 <!--
