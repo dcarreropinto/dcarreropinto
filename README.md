@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+## This is a subtitle 
 
+*Hello There*
+**Hello there 2**
+*this is a list 
+  *nested list 
 <!--
 **dcarreropinto/dcarreropinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
